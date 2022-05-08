@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Countrypedia/static/css/main.620c84a4.css",
+    "main.js": "/Countrypedia/static/js/main.1b1cfa45.js",
+    "index.html": "/Countrypedia/index.html",
+    "main.620c84a4.css.map": "/Countrypedia/static/css/main.620c84a4.css.map",
+    "main.1b1cfa45.js.map": "/Countrypedia/static/js/main.1b1cfa45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.620c84a4.css",
+    "static/js/main.1b1cfa45.js"
+  ]
+}
