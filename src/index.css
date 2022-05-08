@@ -10,3 +10,22 @@ body {
   margin: 0;
   background-color: #b3ffb3;
 }
+
+button {
+  cursor: pointer;
+  font: inherit;
+  border: none;
+  margin: 10px;
+  background-color: #00b300;
+  color:#e6ffe6;
+  padding: 0.75rem 3rem; 
+  align-items: center;
+  border-radius: 25px;
+  font-weight: bold
+}
+
+button:hover,
+button:active {
+  background-color: #e6ffe6;
+  color:#00b300
+}
